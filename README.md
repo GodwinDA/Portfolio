@@ -24,3 +24,26 @@ I actively participate in security competitions and audits on platforms like **C
 I have experience auditing **multiple protocols** across public contests and private engagements. I’m always looking for interesting security challenges and new collaborations. Let’s work together to make Web3 more secure!
 
 ---
+## CodeHawks
+
+| Contest        | Date      | Keywords                 | Findings  | Rank (Top 10 Only) | Report   |
+|---------------|----------|--------------------------|-----------|---------------------|----------|
+| Ignite Benqi  | Jan 2025 | Liquid Staking Protocol | 2 L   | -                   | Private  |
+
+## Cantina
+
+| Contest        | Date      | Keywords                 | Findings  | Rank (Top 10 Only) | Report   |
+|---------------|----------|--------------------------|-----------|---------------------|----------|
+| daao-contracts | Jan 2025 | EVM, Solidity, Uniswap | 1 H, 1M | -               | [Link](https://cantina.xyz/code/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/findings)|
+
+## Code4Arena
+
+| Contest        | Date      | Keywords                 | Findings  | Rank (Top 10 Only) | Report   |
+|---------------|----------|--------------------------|-----------|---------------------|----------|
+| Liquid Ron  | Jan 2025  | Liquid Staking, EVM, solidity | 2 M | - |
+
+## Sherlock
+
+| Contest        | Date      | Keywords                 | Findings  | Rank (Top 10 Only) | Report   |
+|---------------|----------|--------------------------|-----------|---------------------|----------|
+| Rova        | Feb 2025 | Solidity, Move | 1 M   | -   |
