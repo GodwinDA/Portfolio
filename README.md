@@ -26,24 +26,26 @@ I have experience auditing **multiple protocols** across public contests and pri
 ---
 ## CodeHawks
 
-| Contest        | Date      | Keywords                 | Findings  | Rank (Top 10 Only) | Report   |
+| Contest        | Date      | Keywords                 | Findings  | Rank (Top 15 Only) | Report   |
 |---------------|----------|--------------------------|-----------|---------------------|----------|
 | Ignite Benqi  | Jan 2025 | Liquid Staking Protocol | 2 L   | -                   | Private  |
 
 ## Cantina
 
-| Contest        | Date      | Keywords                 | Findings  | Rank (Top 10 Only) | Report   |
+| Contest        | Date      | Keywords                 | Findings  | Rank (Top 15 Only) | Report   |
 |---------------|----------|--------------------------|-----------|---------------------|----------|
 | daao-contracts | Jan 2025 | EVM, Solidity, Uniswap | 1 H, 1M | -               | [Link](https://cantina.xyz/code/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/findings)|
 
 ## Code4Arena
 
-| Contest        | Date      | Keywords                 | Findings  | Rank (Top 10 Only) | Report   |
+| Contest        | Date      | Keywords                 | Findings  | Rank (Top 15 Only) | Report   |
 |---------------|----------|--------------------------|-----------|---------------------|----------|
 | Liquid Ron  | Jan 2025  | Liquid Staking, EVM, solidity | 2 M | - |
 
 ## Sherlock
 
-| Contest        | Date      | Keywords                 | Findings  | Rank (Top 10 Only) | Report   |
+| Contest        | Date      | Keywords                 | Findings  | Rank (Top 15 Only) | Report   |
 |---------------|----------|--------------------------|-----------|---------------------|----------|
-| Rova        | Feb 2025 | Solidity, Move | 1 M   | -   |
+| Rova        | Feb 2025 | Solidity, Move | 1 M   | 3rd     |   [Link](http://audits.sherlock.xyz/contests/498/report)   | 
+| YieldoorFi  |  Feb 2025 | Solidity, Borrowing and Lending, EVM | 1H, 1M  | [15](https://audits.sherlock.xyz/contests/791/leaderboard)    | [Link](https://audits.sherlock.xyz/contests/791/report) 
+| Symmio      | March 2025  | Solidity, staking and vesting, EVM | 1H | 11    | [Link](https://audits.sherlock.xyz/contests/838/report)      |
