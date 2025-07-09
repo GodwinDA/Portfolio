@@ -29,6 +29,7 @@ I have experience auditing **multiple protocols** across public contests and pri
 | Contest        | Date      | Keywords                 | Findings  | Rank (Top 15 Only) | Report   |
 |---------------|----------|--------------------------|-----------|---------------------|----------|
 | Ignite Benqi  | Jan 2025 | Liquid Staking Protocol | 2 L   | -                   | Private  |
+| RAAC   | June 2025 | RWA & NFTs Protocol | 6H, 13M, 1L   | -                   |  [Link](https://codehawks.cyfrin.io/c/2025-02-raac/results?lt=contest&page=4&sc=reward&sj=reward&t=leaderboard)  |
 
 ## Cantina
 
