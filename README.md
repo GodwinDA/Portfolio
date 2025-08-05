@@ -42,6 +42,7 @@ I have experience auditing **multiple protocols** across public contests and pri
 | Contest        | Date      | Keywords                 | Findings  | Rank (Top 15 Only) | Report   |
 |---------------|----------|--------------------------|-----------|---------------------|----------|
 | Liquid Ron  | Jan 2025  | Liquid Staking, EVM, solidity | 2 M | - |
+| Panoptic Hypovault  | July 2025  | DeFi Trading, EVM, solidity | 1 H | 15 | 
 
 ## Sherlock
 
